@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ピリオド",
+  "base_artist": "imase",
+  "createdAt": "2026-03-01T08:40:28.895198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピリオド",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/01_ピリオド_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピリオド",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/02_ピリオド_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プレイス・オブ・ピリオド",
+      "artist": "諫山実生",
+      "has_synced": true,
+      "path": "select/03_プレイス・オブ・ピリオド_諫山実生.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピリオド - Period",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/04_ピリオド_-_Period_imase.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プレイス・オブ・ピリオド",
+      "artist": "V．A．",
+      "has_synced": true,
+      "path": "select/05_プレイス・オブ・ピリオド_V.A..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ピリオド(アルバム・ヴァージョン)",
+      "artist": "森高千里",
+      "has_synced": false,
+      "path": "select/06_ピリオド(アルバム・ヴァージョン)_森高千里.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピリオド",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_ピリオド_imase.txt"
+    }
+  ]
+}
